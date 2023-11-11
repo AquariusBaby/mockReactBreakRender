@@ -1,2 +1,6 @@
 # mockReactBreakRender
-不用链接，模拟实现react可中断更新
+不用链表，用队列模拟实现react可中断更新；
+
+效果图：![Uploading image.png…]()
+
+
